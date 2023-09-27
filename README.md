@@ -6,7 +6,7 @@
 
 - 🔭Cryptocurrency Application **CrytoCarnival**
 
-- 🌱 I’m currently learning **NextJS,Redux,Express,Firebase**
+- 🌱 I’m currently learning **NextJS,Redux,TypeScript,Express,Firebase**
 
 - 💬 Ask me about **the new one piece live action :)**
 
