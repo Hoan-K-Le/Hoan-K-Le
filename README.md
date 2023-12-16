@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **NextJS,Redux,TypeScript,Express,Firebase**
 
-- 💬 Ask me about **the new one piece live action :)**
-
 - 📫 How to reach me **hoanleecr@gmail.com**
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hoan-k-le" alt="hoan-k-le" /></a> </p>
