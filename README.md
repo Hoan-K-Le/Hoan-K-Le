@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hoan-k-le&label=Profile%20views&color=0e75b6&style=flat" alt="hoan-k-le" /></p>
 
-- 🔭Freesource Application **Freesource**
+- 🔭Freesource Application **Freesource for aspiring new FE developers**
 
 - 🌱 I’m currently learning **NextJS,Redux,TypeScript,Express,Firebase**
 
