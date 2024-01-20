@@ -6,7 +6,7 @@
 
 - 🔭Freesource Application **Freesource for aspiring new FE developers**
 
-- 🌱 I’m currently learning **NextJS,Redux,TypeScript,Express,Firebase**
+- 🌱 I’m currently learning **Go lang**
 
 - 📫 How to reach me **hoanleecr@gmail.com**
 
