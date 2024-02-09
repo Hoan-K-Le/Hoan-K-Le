@@ -1,5 +1,5 @@
 <h1 align="center">Hey Guys 👋, I'm Hoan Le</h1>
-<h3 align="center">A React Front-End Developer from Los Angeles, CA</h3>
+<h3 align="center">A React Developer from Los Angeles, CA</h3>
 <img align="right" width="400" src="https://img.freepik.com/free-vector/cute-man-working-laptop-with-coffee-cartoon-vector-icon-illustration-people-technology-icon-concept-isolated-premium-vector-flat-cartoon-style_138676-3869.jpg?w=2000"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hoan-k-le&label=Profile%20views&color=0e75b6&style=flat" alt="hoan-k-le" /></p>
