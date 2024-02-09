@@ -6,7 +6,7 @@
 
 - 🔭Freesource Application **Freesource for aspiring new FE developers**
 
-- 🌱 I’m currently learning **Go lang**
+- 🌱 I’m currently learning **Go lang/ WebSocket**
 
 - 📫 How to reach me **hoanleecr@gmail.com**
 
